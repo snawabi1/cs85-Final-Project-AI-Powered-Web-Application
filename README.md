@@ -34,8 +34,8 @@ A Laravel-based AI chat assistant that demonstrates integration with OpenAI's AP
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd ai-chat-assistant
+   git clone https://github.com/snawabi1/cs85-Final-Project-AI-Powered-Web-Application.git
+   cd cs85-Final-Project-AI-Powered-Web-Application
    ```
 
 2. **Install dependencies**
