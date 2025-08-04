@@ -122,7 +122,7 @@ This project demonstrates all core web development concepts:
 ![Weather Demo](Screenshot3.png)
 
 ### Error Handling Demo
-![Error Handling Demo](Screenshot4.png)
+![Error Handling Demo](screenshot4.png)
 
 *Note: Screenshots show the application's interface and demo functionality.*
 
